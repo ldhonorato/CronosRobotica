@@ -1,0 +1,10 @@
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\Software\CronometroWindowsForm\CronometroWindowsForm\bin\Debug\CronometroWindowsForm.exe
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\Software\CronometroWindowsForm\CronometroWindowsForm\bin\Debug\CronometroWindowsForm.pdb
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\Software\CronometroWindowsForm\CronometroWindowsForm\obj\x86\Debug\CronometroWindowsForm.Form1.resources
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\Software\CronometroWindowsForm\CronometroWindowsForm\obj\x86\Debug\CronometroWindowsForm.Properties.Resources.resources
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\Software\CronometroWindowsForm\CronometroWindowsForm\obj\x86\Debug\CronometroWindowsForm.csproj.GenerateResource.Cache
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\Software\CronometroWindowsForm\CronometroWindowsForm\obj\x86\Debug\CronometroWindowsForm.exe
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\Software\CronometroWindowsForm\CronometroWindowsForm\obj\x86\Debug\CronometroWindowsForm.pdb
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\Software\CronometroWindowsForm\CronometroWindowsForm\obj\x86\Debug\CronometroWindowsForm.csprojResolveAssemblyReference.cache
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\CronometroProva\CronometroProvaForm\CronometroWindowsForm\obj\x86\Debug\CronometroWindowsForm.exe
+D:\Dropbox\IFPB\Competição de Robótica 2016\Projeto Cronometro Automatico\CronometroProva\CronometroProvaForm\CronometroWindowsForm\obj\x86\Debug\CronometroWindowsForm.pdb
